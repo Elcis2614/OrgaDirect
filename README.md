@@ -1,2 +1,3 @@
 # OrgaDirect
-# By ELingo
+# Connecting the consumer to the farmer
+# By ELisee And Idogu
